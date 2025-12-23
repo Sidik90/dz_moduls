@@ -1,4 +1,4 @@
-from application.datetime import current_moscow_time
+from application.utils import current_moscow_time
 
 
 def calculate_salary():
